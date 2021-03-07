@@ -1,6 +1,6 @@
 {
-    "name": "lbd-free-angular-cli",
-    "version": "1.7.0",
+    "name": "lab-server-manager-ui",
+    "version": "1.0.0",
     "license": "MIT",
     "scripts": {
         "ng": "ng",
